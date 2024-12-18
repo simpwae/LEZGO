@@ -1,0 +1,22 @@
+{
+  "name": "lezgo",
+  "version": "1.0.0",
+  "description": "With chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpwae/LEZGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpwae/LEZGO/issues"
+  },
+  "homepage": "https://github.com/simpwae/LEZGO#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
